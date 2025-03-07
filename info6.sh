@@ -12,6 +12,7 @@ info_user()
 {
 
         echo "Fonction  information utilisateur"
+	free
 
 }
 ###df
@@ -19,6 +20,7 @@ info_disk()
 {
 
 	echo "Fonction information sur le disk"
+	df -h
 
 }
 #####printenv
@@ -26,6 +28,7 @@ info_chemin()
 {
 
 	echo "Fonction  information sur les variables d'environnement"
+	
 
 }
 ##### uptimi
@@ -33,6 +36,7 @@ show_time()
 {
 
 	echo "Fonction pour voir le temps"
+	
 }
 
 
