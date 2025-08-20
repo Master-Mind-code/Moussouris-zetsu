@@ -54,12 +54,12 @@ Le script vérifie automatiquement les dépendances et suggère leur installatio
 ## Installation
 
 
-git clone https://github.com/Hegeldirkk/scrapingshell.git
-cd scrapingshell
-chmod +x msrscrap.sh
+git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
+cd Moussouris-zetsu
+chmod +x scrape.sh
 
 ## Execution du script 
 
-./msrscrap.sh Domaine ou bash msrscrap.sh Domaine
+./scrape.sh Domaine ou bash scrape.sh Domaine
 
  

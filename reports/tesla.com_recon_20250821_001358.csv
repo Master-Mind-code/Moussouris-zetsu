@@ -1,0 +1,210 @@
+subdomain,ip,status,http_code,https_code,server
+acme-sentry-4a.eng.use1.vn.cloud.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+ai-api-stg.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+acs2-poc.voice.tesla.com                ,N/A         ,DEAD       ,000   ,000   ,N/A         
+acme-sentry-4.eng.use1.vn.cloud.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+ai-api.tesla.com                        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+api-account-master.tesla.com            ,N/A         ,DEAD       ,000   ,000   ,N/A         
+appplayer.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+apf-api.eng.vn.cloud.tesla.com          ,d2fy29hrw9wp94.cloudfront.net.,ALIVE      ,200   ,200   ,CloudFront  
+autobidder-eng.powerhub.energy.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com,akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,000   ,AkamaiGHost 
+awsbtest.tesla.com                      ,N/A         ,DEAD       ,000   ,000   ,N/A         
+autobidder-preprd.powerhub.energy.tesla.com,energy.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+bctpay.tesla.com                        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+apf-api.prd.vn.cloud.tesla.com          ,d2p1ot6coc1j95.cloudfront.net.,ALIVE      ,200   ,200   ,CloudFront  
+chat-staging.bottlerocket.tesla.com     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+autobidder.powerhub.energy.tesla.com    ,energy.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,000   ,AkamaiGHost 
+citiapiencpoc.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+citiapiencpocV2.tesla.com               ,N/A         ,DEAD       ,000   ,000   ,N/A         
+apacvpn2.tesla.com                      ,124.158.21.195,DEAD       ,000   ,000   ,N/A         
+apacvpn.tesla.com                       ,8.244.67.215,DEAD       ,000   ,000   ,N/A         
+apacvpn1.tesla.com                      ,8.244.131.215,DEAD       ,000   ,000   ,N/A         
+apac-cppm.tesla.com                     ,apac-cppm.tesla.com.akadns.net.,DEAD       ,000   ,000   ,N/A         
+api.kronos.tesla.com                    ,kronos-api-nlb-9096be9c0c5be87b.elb.us-west-2.amazonaws.com.,DEAD       ,000   ,000   ,N/A         
+CitiApiEncProdv4.tesla.com              ,N/A         ,DEAD       ,000   ,000   ,N/A         
+CitiApiEncSandboxv4.tesla.com           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+CitiApiEncProdv5.tesla.com              ,N/A         ,DEAD       ,000   ,000   ,N/A         
+citiapisslpoc.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+citiapisslpocV2.tesla.com               ,N/A         ,DEAD       ,000   ,000   ,N/A         
+bettertime-stage.tesla.com              ,bettertime-stage.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,N/A         
+ciscoguest.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+billing.tesla.com                       ,billing.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,000   ,AkamaiGHost 
+CitiApiSslProdv4.tesla.com              ,N/A         ,DEAD       ,000   ,000   ,N/A         
+consul.bottlerocket.tesla.com           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cradlepointtest01.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+bettertime.tesla.com                    ,bettertime.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+cryptopay2.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cryptopay3.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cryptopay4.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cryptopay.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cssp-dev-teleport-proxy.tesla.com       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cxadmin-apac.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+CitiApiSslProdv5.tesla.com              ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cx-apac-stg.tesla.com                   ,N/A         ,DEAD       ,000   ,000   ,N/A         
+CitiApiSslSandboxv4.tesla.com           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+CitiBankStatementSHA512.tesla.com       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cxengine-apac.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dev.kronosdb.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dex.ops.na.vn.cloud.tesla.com           ,npudex-ops-a-5461720c4ea57de3.elb.us-west-2.amazonaws.com.,DEAD       ,000   ,000   ,N/A         
+dex.ops.vs-bnc.na.vn.cloud.tesla.com    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cxengine-apac-stg.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dgf.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dhc.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+cx-apac.tesla.com                       ,cx-apac.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+click.emails.tesla.com                  ,13.111.48.179,DEAD       ,000   ,000   ,N/A         
+cnvpn.tesla.com                         ,103.222.41.215,DEAD       ,000   ,000   ,N/A         
+cnvpn1.tesla.com                        ,114.141.176.215,DEAD       ,000   ,000   ,N/A         
+cyberbeer.tesla.com                     ,cyberbeer.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,000   ,AkamaiGHost 
+digitalassets-stage.tesla.com           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dal11-gpgw1.tesla.com                   ,199.120.56.30,DEAD       ,000   ,404   ,N/A         
+diner-api-stage.tesla.com               ,N/A         ,DEAD       ,000   ,000   ,N/A         
+diner-api.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+dex.ops.bn.na.vn.cloud.tesla.com        ,npudex.ops.bn-usw2.vn.cloud.tesla.com.,DEAD       ,000   ,403   ,N/A         
+digitalassets-learning.tesla.com        ,digitalassets-learning.tesla.com.multicdn.cloudinary.com.,CLIENT_ERR ,404   ,000   ,Cloudinary  
+discovery.bottlerocket.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+discovery-service.bottlerocket.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+digitalassets-accounts.tesla.com        ,digitalassets-accounts.tesla.com.multicdn.cloudinary.com.,REDIRECT   ,301   ,301   ,Cloudinary  
+e382p434p572c.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+doraemon-svc-apac.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+digitalassets-contents.tesla.com        ,digitalassets-contents.tesla.com.multicdn.cloudinary.com.,REDIRECT   ,301   ,301   ,Cloudinary  
+digitalassets-energy.tesla.com          ,digitalassets-energy.tesla.com.multicdn.cloudinary.com.,REDIRECT   ,301   ,000   ,Cloudinary  
+diner-webapp.tesla.com                  ,diner-webapp.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+diner-webapp-stage.tesla.com            ,diner-webapp-stage.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+embed-staging.bottlerocket.tesla.com    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+employee-teslatequila.tesla.com         ,N/A         ,DEAD       ,000   ,000   ,N/A         
+energysupport.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+doraemon-svc-apac-stg.tesla.com         ,N/A         ,DEAD       ,000   ,000   ,N/A         
+energy.tesla.com                        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+energy-technician.bottlerocket.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+digitalassets-shop.tesla.com            ,digitalassets-shop.tesla.com.multicdn.cloudinary.com.,ALIVE      ,200   ,301   ,Cloudinary  
+digitalassets-secure.tesla.com          ,digitalassets-secure.tesla.com.multicdn.cloudinary.com.,ALIVE      ,000   ,200   ,Cloudinary  
+digitalassets.tesla.com                 ,digitalassets.tesla.com.multicdn.cloudinary.com.,REDIRECT   ,301   ,301   ,Cloudinary  
+fleetview.prd.america.vn.cloud.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+fleetview.prd.europe.vn.cloud.tesla.com ,N/A         ,DEAD       ,000   ,000   ,N/A         
+forums.tesla.com                        ,site-6030136.onvanilla.net.,DEAD       ,000   ,000   ,N/A         
+genai.tesla.com                         ,N/A         ,DEAD       ,000   ,000   ,N/A         
+gfb.vdi.tesla.com                       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+github-ap.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+extgithub.tesla.com                     ,extgithub.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+github-fw.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+github-it.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+gigabier.tesla.com                      ,external-na-pop1.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+githubmirroraus08.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+githubmirrorber02.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+githubmirror.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+github.tesla.com                        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+gridlogic.energy.tesla.com              ,N/A         ,DEAD       ,000   ,000   ,N/A         
+gridlogic-eng.energy.tesla.com          ,gridlogic-eng.sn.tesla.services.,DEAD       ,000   ,000   ,N/A         
+engage.tesla.com                        ,d26t17nbk55wf2.cloudfront.net.,REDIRECT   ,301   ,000   ,CloudFront  
+gridlogic-eng.powerhub.energy.tesla.com ,N/A         ,DEAD       ,000   ,000   ,N/A         
+fleetview.fn.tesla.com                  ,fleetview.america.fn.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+fleet-api.prd.eu.vn.cloud.tesla.com     ,epuca-prd.euw1.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+gridlogic.powerhub.energy.tesla.com     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+events.tesla.com                        ,13.111.47.195,DEAD       ,000   ,000   ,N/A         
+fleet-api.prd.na.vn.cloud.tesla.com     ,epuca-prd.usw2.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+inference.bottlerocket.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+fleet-auth.prd.vn.cloud.tesla.com       ,fleet-auth.prd.vn.cloud.tesla.com.edgekey.net.,DEAD       ,000   ,403   ,N/A         
+fleet-api.eng.na.vn.cloud.tesla.com     ,epuca-eng.usw.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+inference-eu.bottlerocket.tesla.com     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+inference-eu-staging.bottlerocket.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+inference-staging.bottlerocket.tesla.com,N/A         ,DEAD       ,000   ,000   ,N/A         
+kronosdb.tesla.com                      ,N/A         ,DEAD       ,000   ,000   ,N/A         
+learning-apac.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+lighthouse.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+lionpayshare.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+lionpaytest.tesla.com                   ,N/A         ,DEAD       ,000   ,000   ,N/A         
+lionshare.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+ion.tesla.com                           ,external-na-pop1.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+mfa-dev.tesla.com                       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+gpv.tesla.com                           ,gpv.tesla.com.akadns.net.,DEAD       ,000   ,000   ,N/A         
+iad05-gpgw1.tesla.com                   ,199.120.48.30,DEAD       ,000   ,404   ,N/A         
+kronos.tesla.com                        ,kronos.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,N/A         
+kronos-dev.tesla.com                    ,kronos-dev.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,N/A         
+mobile-links-cdn.prd.vn.cloud.tesla.com ,d2qvfxpk5rs4fh.cloudfront.net.,REDIRECT   ,301   ,000   ,CloudFront  
+monitoring-eu.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+nas-origin.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+obs.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+mobile-links-cdn.eng.vn.cloud.tesla.com ,d14qurt0vbjsqs.cloudfront.net.,REDIRECT   ,301   ,000   ,CloudFront  
+OpenADRClient.tesla.com                 ,N/A         ,DEAD       ,000   ,000   ,N/A         
+live-data.fn.tesla.com                  ,live-data.america.fn.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+media-server-api.eng.vn.cloud.tesla.com ,usw-eng5x-media-npumedia-prd.teslafleet.akadns.net.,DEAD       ,000   ,404   ,N/A         
+monitoring.tesla.com                    ,23.41.116.211,DEAD       ,000   ,000   ,N/A         
+media-server-dev-api.eng.vn.cloud.tesla.com,usw-eng5x-media-npumedia-prd.teslafleet.akadns.net.,DEAD       ,000   ,404   ,N/A         
+owner-api.eng.vn.cloud.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+payment-dlocal-prod.tesla.com           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+marketing.tesla.com                     ,13.111.47.196,DEAD       ,000   ,000   ,N/A         
+paymentrecon.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+Payx-CitiAPI-Prod.tesla.com             ,N/A         ,DEAD       ,000   ,000   ,N/A         
+pilot-bpay.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+mobile-links.prd.vn.cloud.tesla.com     ,npuca-prd.usw2.vn.cloud.tesla.com.,DEAD       ,000   ,403   ,N/A         
+mobile-links.eng.vn.cloud.tesla.com     ,npuca-eng.usw.vn.cloud.tesla.com.,DEAD       ,000   ,403   ,N/A         
+referral.tesla.com                      ,N/A         ,DEAD       ,000   ,000   ,N/A         
+raultest.tesla.com                      ,N/A         ,DEAD       ,000   ,000   ,N/A         
+mobile-ops-links.prd.vn.cloud.tesla.com ,npuca-prd.usw2.vn.cloud.tesla.com.,DEAD       ,000   ,403   ,N/A         
+payment-dlocal-stg.tesla.com            ,N/A         ,DEAD       ,000   ,000   ,N/A         
+paymentrecon-stage.tesla.com            ,N/A         ,DEAD       ,000   ,000   ,N/A         
+resources.tesla.com                     ,N/A         ,DEAD       ,000   ,000   ,N/A         
+s3.a.smf13.tcs.tesla.com                ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sandbox-studio.courses.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sca.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+secureaccess.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sentry.app.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+ownerapi-api.eng.usw2.vn.cloud.tesla.com,epuca-eng.usw2.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+ownerapi-api.eng.usw.vn.cloud.tesla.com ,epuca-eng.usw.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+signaling-ap-api.eng.vn.cloud.tesla.com ,N/A         ,DEAD       ,000   ,000   ,N/A         
+ownerapi-alpha.prd.vn.cloud.tesla.com   ,epuca-eng.usw2.vn.cloud.tesla.com.,DEAD       ,000   ,404   ,N/A         
+ownerapi-api.eng.euw1.vn.cloud.tesla.com,epuca-eng.euw1.vn.cloud.tesla.com.,DEAD       ,000   ,000   ,N/A         
+sling.tesla.com                         ,N/A         ,DEAD       ,000   ,000   ,N/A         
+smt.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+powerhub.energy.tesla.com               ,powerhub.sn.tesla.services.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+sso-dec.tesla.com                       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sso-sandbox.tesla.com                   ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sso-sig.tesla.com                       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+staging.bottlerocket.tesla.com          ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sts-broker.bottlerocket.tesla.com       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+studio.courses.tesla.com                ,N/A         ,DEAD       ,000   ,000   ,N/A         
+taffy.bottlerocket.tesla.com            ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sso.tesla.com                           ,tslaso.edgekey.net.,CLIENT_ERR ,404   ,404   ,AkamaiGHost 
+solarbonds.tesla.com                    ,solarbonds.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+signaling-alpha.prd.vn.cloud.tesla.com  ,npuhe-eng-a-c517f248c251dc44.elb.us-west-2.amazonaws.com.,DEAD       ,000   ,404   ,N/A         
+studio.sandbox-courses.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sentry-api.ops.na.vn.cloud.tesla.com    ,npuca-ops-sentry-5adb5ee7da9f2ec1.elb.us-west-2.amazonaws.com.,DEAD       ,000   ,404   ,N/A         
+sc-cppm.tesla.com                       ,na-vsc-rad.tesla.com.,DEAD       ,000   ,000   ,N/A         
+tesla-inc-docsys-eorg.tesla.com         ,N/A         ,DEAD       ,000   ,000   ,N/A         
+sjc36-gpgw1.tesla.com                   ,199.120.49.30,DEAD       ,000   ,404   ,N/A         
+signaling-robotics.eng.vn.cloud.tesla.com,usw-eng5x-hermes-npuaph-prd.teslafleet.akadns.net.,DEAD       ,000   ,404   ,N/A         
+sso-dev.tesla.com                       ,sso-dev.edgekey.net.,CLIENT_ERR ,404   ,404   ,AkamaiGHost 
+tf-poc.tesla.com                        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+tokens-staging.bottlerocket.tesla.com   ,N/A         ,DEAD       ,000   ,000   ,N/A         
+toolbox-beta.tesla.com                  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+teslaquila.tesla.com                    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+toolbox.tesla.com                       ,toolbox.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+teslamezcal.tesla.com                   ,d1z7yzae8ztrxk.cloudfront.net.,ALIVE      ,301   ,200   ,CloudFront  
+track.tesla.com                         ,track.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+teslacmgap01.tesla.com                  ,teslacmgap01.southeastasia.cloudapp.azure.com.,DEAD       ,000   ,000   ,N/A         
+teslacmgcn01.tesla.com                  ,teslacmgcn01.eastasia.cloudapp.azure.com.,DEAD       ,000   ,500   ,N/A         
+teslacmgna01.tesla.com                  ,teslacmgna01.westus.cloudapp.azure.com.,DEAD       ,000   ,500   ,N/A         
+tripx.eng.usw.vn.cloud.tesla.com        ,N/A         ,DEAD       ,000   ,000   ,N/A         
+teslacmgeu01.tesla.com                  ,teslacmgeu01.westeurope.cloudapp.azure.com.,DEAD       ,000   ,500   ,N/A         
+tripx.prd.euw1.vn.cloud.tesla.com       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+teslacmgus01.tesla.com                  ,teslacmgus01.westus.cloudapp.azure.com.,DEAD       ,000   ,500   ,N/A         
+vehicle-files.eng.vn.cloud.tesla.com    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+ug.tesla.com                            ,N/A         ,DEAD       ,000   ,000   ,N/A         
+vehicle-files.prd.vn.cloud.tesla.com    ,N/A         ,DEAD       ,000   ,000   ,N/A         
+veritas-staging.bottlerocket.tesla.com  ,N/A         ,DEAD       ,000   ,000   ,N/A         
+teslatequila.tesla.com                  ,teslatequila.tesla.com.edgekey.net.,REDIRECT   ,301   ,403   ,AkamaiGHost 
+tripx.eng.usw2.vn.cloud.tesla.com       ,npuca-eng.usw.vn.cloud.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+tripx-alpha.prd.vn.cloud.tesla.com      ,npuca-eng.usw.vn.cloud.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+vpn1.tesla.com                          ,N/A         ,DEAD       ,000   ,000   ,N/A         
+vehicle-files.eng.usw2.vn.cloud.tesla.com,vehicle-files.eng.usw2.vn.cloud.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,403   ,AkamaiGHost 
+vpn3.tesla.com                          ,N/A         ,DEAD       ,000   ,000   ,N/A         
+vrp-stg.tesla.com                       ,N/A         ,DEAD       ,000   ,000   ,N/A         
+vehicle-files.prd.usw2.vn.cloud.tesla.com,vehicle-files.prd.usw2.vn.cloud.tesla.com.edgekey.net.,CLIENT_ERR ,403   ,000   ,AkamaiGHost 
+vpn.tesla.com                           ,N/A         ,DEAD       ,000   ,000   ,N/A         
+vehicle-files.prd.euw1.vn.cloud.tesla.com,vehicle-files.prd.euw1.vn.cloud.tesla.com.edgekey.net.,DEAD       ,000   ,403   ,AkamaiGHost 
+vehicle-files.eng.euw1.vn.cloud.tesla.com,vehicle-files.eng.euw1.vn.cloud.tesla.com.edgekey.net.,DEAD       ,000   ,403   ,N/A         
+tripx.prd.vn.cloud.tesla.com            ,npuca-prd.usw2.vn.cloud.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+tripx.prd.usw2.vn.cloud.tesla.com       ,npuca-prd.usw2.vn.cloud.tesla.com.,ALIVE      ,000   ,200   ,N/A         
+view.emails.tesla.com                   ,13.111.49.179,DEAD       ,000   ,000   ,N/A         
+vpn2.tesla.com                          ,8.47.24.215 ,DEAD       ,000   ,000   ,N/A         
