@@ -54,14 +54,14 @@ Le script vérifie automatiquement les dépendances et suggère leur installatio
 ## Installation
 
 
-`git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git`
-`cd Moussouris-zetsu`
-`chmod +x scrape.sh`
+```git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git```
+```cd Moussouris-zetsu```
+```chmod +x scrape.sh```
 
 ## Execution du script 
 Pour exécutter le script, entrez la commande suivante:
-`./scrape.sh example.com`
+```./scrape.sh example.com```
   ou
-`bash scrape.sh example.com`
+```bash scrape.sh example.com```
 
  

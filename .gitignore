@@ -1,3 +1,7 @@
-./reports/*
-scrapy.sh
+# Dossier reports (tout son contenu)
+reports/
+
+# Scripts shell spécifiques
 scrape.sh
+scrapy.sh
+
