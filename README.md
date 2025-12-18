@@ -58,9 +58,9 @@ Le script vérifie automatiquement la présence des dépendances et suggère leu
 ## Installation
 Pour installer l'outil, veillez utiliser les commandes suivantes:
 
-git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
-cd Moussouris-zetsu
-chmod +x msrscrap.sh
+```git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
+```cd Moussouris-zetsu```
+```chmod +x msrscrap.sh```
 
 ---
 
@@ -68,11 +68,11 @@ chmod +x msrscrap.sh
 
 Pour utiliser l'outil msrscap.sh, entrez la commande suivante:
 
-./msrscrap.sh example.com
+```./msrscrap.sh example.com```
 
 ou
 
-bash msrscrap.sh example.com
+```bash msrscrap.sh example.com```
 
 ---
 
