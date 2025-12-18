@@ -31,11 +31,11 @@ Le script est entièrement écrit en **Bash pur**, utilisant uniquement des outi
    - TXT : lisible et coloré avec résumé statistique  
    - CSV : pour traitement automatisé  
 6. **Affichage coloré en temps réel**  
-   - Vert : actif (2xx)  
-   - Jaune : redirection (3xx)  
-   - Orange : erreur client (4xx)  
-   - Rouge : erreur serveur (5xx)  
-   - Blanc : non répondant  
+   - 🟢  Vert : actif (2xx)  
+   - 🟡  Jaune : redirection (3xx)  
+   - 🟠  Orange : erreur client (4xx)  
+   - 🔴  Rouge : erreur serveur (5xx)  
+   - ⚪  Blanc : non répondant  
 7. **Parallélisation** : via `parallel`, threads configurables.
 
 ---
@@ -54,12 +54,14 @@ Le script vérifie automatiquement les dépendances et suggère leur installatio
 ## Installation
 
 
-git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
-cd Moussouris-zetsu
-chmod +x scrape.sh
+`git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git`
+`cd Moussouris-zetsu`
+`chmod +x scrape.sh`
 
 ## Execution du script 
-
-./scrape.sh Domaine ou bash scrape.sh Domaine
+Pour exécutter le script, entrez la commande suivante:
+`./scrape.sh example.com`
+  ou
+`bash scrape.sh example.com`
 
  
