@@ -1,4 +1,4 @@
-# Advanced Subdomain Recon Tool
+# Advanced Subdomain Recon Tool (MSRSCRAP)
 
 ## Auteur
 MOUSSOURIS CLASSE 1  
@@ -56,20 +56,23 @@ Le script vérifie automatiquement la présence des dépendances et suggère leu
 ---
 
 ## Installation
+Pour installer l'outil, veillez utiliser les commandes suivantes:
 
 git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
 cd Moussouris-zetsu
-chmod +x scrape.sh
+chmod +x msrscrap.sh
 
 ---
 
 ## Utilisation
 
-./scrape.sh example.com
+Pour utiliser l'outil msrscap.sh, entrez la commande suivante:
+
+./msrscrap.sh example.com
 
 ou
 
-bash scrape.sh example.com
+bash msrscrap.sh example.com
 
 ---
 
