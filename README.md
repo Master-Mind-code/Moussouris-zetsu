@@ -58,7 +58,7 @@ Le script vérifie automatiquement la présence des dépendances et suggère leu
 ## Installation
 Pour installer l'outil, veillez utiliser les commandes suivantes:
 
-```git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
+```git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git```
 ```cd Moussouris-zetsu```
 ```chmod +x msrscrap.sh```
 
