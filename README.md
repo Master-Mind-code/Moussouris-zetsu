@@ -1,67 +1,80 @@
-# Advanced Subdomain Recon Tool 
+# Advanced Subdomain Recon Tool
 
 ## Auteur
-**MOUSSOURIS CLASSE 1**  
-Formation : **Ethical Hacking**  
+MOUSSOURIS CLASSE 1  
+Formation : Ethical Hacking
 
 ---
 
 ## Description
-Advanced Subdomain Recon Tool v2.0 est un **outil avancé d’énumération de sous-domaines** pour un domaine cible.  
-Il effectue :  
 
-- Énumération via **crt.sh**  
-- Résolution IP des sous-domaines  
-- Scan HTTP/HTTPS avec détection des codes de statut  
-- Détection de technologie serveur via headers HTTP  
-- Génération de rapports **TXT et CSV**  
-- Scan **parallèle** pour accélérer le processus  
+Advanced Subdomain Recon Tool v2.0 est un outil avancé d’énumération et d’analyse de sous-domaines pour un domaine cible.
 
-Le script est entièrement écrit en **Bash pur**, utilisant uniquement des outils open-source (`curl`, `jq`, `dig`, `parallel`).
+Il permet de :
+- Énumérer les sous-domaines via crt.sh
+- Résoudre les adresses IP des sous-domaines
+- Scanner les services HTTP et HTTPS
+- Détecter les codes de statut (2xx, 3xx, 4xx, 5xx)
+- Identifier les technologies serveur via les headers HTTP
+- Générer des rapports TXT et CSV
+- Accélérer les scans grâce à l’exécution parallèle
+
+Le script est écrit en Bash pur et utilise uniquement des outils open-source standards.
 
 ---
 
-## Fonctionnalités principales
+## Fonctionnalités
 
-1. **Enumération de sous-domaines** : via crt.sh, filtrage et tri automatique.  
-2. **Résolution IP** : récupération IPv4 valide pour chaque sous-domaine.  
-3. **Scan HTTP/HTTPS** : détection des codes `2xx`, `3xx`, `4xx`, `5xx`.  
-4. **Détection serveur** : identification via header `Server`.  
-5. **Rapports détaillés** :  
-   - TXT : lisible et coloré avec résumé statistique  
-   - CSV : pour traitement automatisé  
-6. **Affichage coloré en temps réel**  
-   - 🟢  Vert : actif (2xx)  
-   - 🟡  Jaune : redirection (3xx)  
-   - 🟠  Orange : erreur client (4xx)  
-   - 🔴  Rouge : erreur serveur (5xx)  
-   - ⚪  Blanc : non répondant  
-7. **Parallélisation** : via `parallel`, threads configurables.
+- Énumération automatique des sous-domaines (crt.sh)
+- Résolution DNS IPv4
+- Scan HTTP/HTTPS avec détection des statuts
+- Détection du serveur via le header "Server"
+- Génération de rapports :
+  - TXT : lisible et coloré avec résumé
+  - CSV : exploitable pour automatisation
+- Scan parallèle avec gestion du nombre de threads
+- Affichage coloré en temps réel :
+
+  🟢 Vert   : actif (2xx)  
+  🟡 Jaune : redirection (3xx)  
+  🟠 Orange: erreur client (4xx)  
+  🔴 Rouge : erreur serveur (5xx)  
+  ⚪ Blanc : non répondant  
 
 ---
 
 ## Dépendances
 
-- `bash`  
-- `curl`  
-- `jq`  
-- `dig` (dnsutils)  
-- `parallel`  
+- bash
+- curl
+- jq
+- dig (dnsutils)
+- parallel
 
-Le script vérifie automatiquement les dépendances et suggère leur installation si elles sont manquantes.
+Le script vérifie automatiquement la présence des dépendances et suggère leur installation si nécessaire.
 
+---
 
 ## Installation
 
+git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git
+cd Moussouris-zetsu
+chmod +x scrape.sh
 
-```git clone https://github.com/Master-Mind-code/Moussouris-zetsu.git```
-```cd Moussouris-zetsu```
-```chmod +x scrape.sh```
+---
 
-## Execution du script 
-Pour exécutter le script, entrez la commande suivante:
-```./scrape.sh example.com```
-  ou
-```bash scrape.sh example.com```
+## Utilisation
 
+./scrape.sh example.com
+
+ou
+
+bash scrape.sh example.com
+
+---
+
+## Avertissement légal
+
+Cet outil est destiné uniquement à des fins éducatives et de tests autorisés.
+Toute utilisation sur des systèmes sans autorisation explicite est interdite.
  
